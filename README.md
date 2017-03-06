@@ -1,5 +1,5 @@
-# Taco Components
-A React components library for Project T.A.C.O.
+#
+A React components library
 
 ## Usage
 ```
